@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Físico IA",
+  "description": "Sube una foto de un rostro y genera 15 imágenes mostrando transformaciones físicas: desnutrido, con sobrepeso y musculado, con expresiones faciales acordes.",
+  "requestFramePermissions": []
+}
